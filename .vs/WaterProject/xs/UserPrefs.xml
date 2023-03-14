@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{A0C009B7-3AD5-44CA-8C7A-C30BCD62BFAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.WaterProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaterProject/Pages/Donate.cshtml">
+    <Files>
+      <File FileName="WaterProject/Pages/Donate.cshtml" Line="51" Column="92" />
+      <File FileName="WaterProject/Models/Donation.cs" Line="31" Column="33" />
+      <File FileName="WaterProject/Models/WaterProjectContext.cs" Line="21" Column="9" />
+      <File FileName="WaterProject/Models/SessionBasket.cs" Line="1" Column="1" />
+      <File FileName="WaterProject/Models/Basket.cs" Line="58" Column="8" />
+      <File FileName="WaterProject/Views/Checkout.cshtml" Line="12" Column="29" />
+      <File FileName="WaterProject/Controllers/DonationController.cs" Line="16" Column="10" />
+      <File FileName="WaterProject/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="WaterProject/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="WaterProject/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WaterProject" expanded="True">
+            <Node name="WaterProject" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Donate.cshtml" expanded="True" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Donation" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rjackso3/Projects/WaterProject/WaterProject/Controllers/DonationController.cs" relfile="WaterProject/Controllers/DonationController.cs" line="17" column="1" />
+      <Breakpoint file="/Users/rjackso3/Projects/WaterProject/WaterProject/Pages/Donate.cshtml" relfile="WaterProject/Pages/Donate.cshtml" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
